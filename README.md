@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panosg96
 - 👀 I’m interested in Computer Science and Biomedical Engineering
-- 🌱 I’m currently learning Python 3 and Image Processing and Analysis
+- 🌱 I’m currently learning about Data Science in Healthcare  
 - 📫 panos_321@hotmail.com
 
 <!---
